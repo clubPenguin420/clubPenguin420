@@ -7,5 +7,5 @@ I am a high schooler who just codes for fun and to make useful programs for me
 # Projects
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=clubPenguin420&repo=calculator&theme=algolia)]
 
-#Major langs
+# Major langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clubPenguin420&theme=algolia)]
